@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Álvaro de Dios</h1>
-<h3 align="center">I am a passionate frontend developer from Spain, constantly trying to learn new things while enyoing the path</h3>
+<h3 align="center">I am a passionate frontend developer from Spain, constantly trying to learn new things while enyoing the path, working from home since 2020.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">RRSS:</h3>
 <p align="left">
-<a href="https://twitter.com/@alvaroddg86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alvaroddg86" height="30" width="40" /></a>
+<a href="https://twitter.com/@alvaroddg86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alvaroddg86" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/álvaro-de-dios-garcía" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="alvaroddg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alvaroddg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alvaroddg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools:</h3>
 <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -52,3 +53,4 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a>
     </p>
+<a href="https://app.daily.dev/AlvaroDDG86"><img src="https://api.daily.dev/devcards/35906fed01054a54a0400c279d362593.png?r=p4l" width="200" alt="Alvaro de Dios's Dev Card"/></a>
