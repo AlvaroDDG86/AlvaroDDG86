@@ -1,15 +1,8 @@
-<h1 align="center" style="font-size: 3em; color: lightblue">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Álvaro de Dios</h1>
-<table>
-  <tr>
-<td valign="top"><h2 align="center">A passionate front-end developer from Spain, always trying to learn new things while enyoing the journey, I have been working in this big world since 2016..</h2></td>
-<td valign="top"><img style="border-radius: 20px" src="https://media.giphy.com/media/Q8PVgv4ub5QIudY42S/giphy.gif" alt="iuju"></td>
-</tr>
-</table>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Álvaro de Dios</h1>
+<h2 align="center">A passionate front-end developer from Spain, always trying to learn new things while enyoing the journey, I have been working in this big world since 2016..</h2>
 
-<table>
-  <tr>
-<td valign="top"><a href="https://app.daily.dev/AlvaroDDG86"><img src="https://api.daily.dev/devcards/35906fed01054a54a0400c279d362593.png?r=p4l" width="200" alt="Alvaro de Dios's Dev Card"/></a></td>
-<td valign="top"><pre style="border-radius: 20px" >
+<a align="center" href="https://app.daily.dev/AlvaroDDG86"><img src="https://api.daily.dev/devcards/35906fed01054a54a0400c279d362593.png?r=p4l" width="200" alt="Alvaro de Dios's Dev Card"/></a>
+<pre align="center">
 const me = {
     code: ["Javascript", "Typescript"],
     askMeAbout: ["web dev", "frontend", "app dev"],
@@ -20,9 +13,7 @@ const me = {
     },
     currentFocus: "Vue JS, vuex"
 };
-</pre></td>
-  </tr>
-</table>
+</pre>
 <h3 align="center">RRSS:</h3>
 <p align="center">
 <a href="https://twitter.com/@alvaroddg86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alvaroddg86" height="30" width="30" /></a>
@@ -76,9 +67,6 @@ const me = {
                 alt="typescript" width="40" height="40" /> </a>
     </p>
 
-<table>
-  <tr>
-   <td valign="top"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDDG86&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></td>
-    <td valign="top"><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AlvaroDDG86&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></td>
-  </tr>
-</table>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDDG86&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlvaroDDG86&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
